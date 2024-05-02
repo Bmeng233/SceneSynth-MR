@@ -1,2 +1,4 @@
-# Meta-MR-Virtual-Music-Engagement-App
- Craft a personalized emotional experience through the utilization of AI-generated music and the dynamic adaptation of visual elements.
+# SceneSynth MR
+SceneSynth MR is a mixed-reality prototype that revolutionizes AI music creation, developed for the Meta Quest using its passthrough feature to merge real and digital worlds. This immersive app allows users to generate music by inputting prompts, which are then visualized with vibrant MR visuals, enhancing the user experience. Unique to SceneSynth MR are collectible mascots, which vary based on the music and settings, adding a layer of personalization and fun. The platform also caters to Gen-Z’s connectivity needs, positioning itself not just as an application but as a community for social interaction and engagement.
+
+Developed in just four weeks, this prototype showcases the effective use of the Meta Quest's passthrough feature to create a compelling mixed-reality (MR) environment. This foundational work lays the groundwork for potential full-scale development, with future plans to more comprehensively integrate real-time generative AI music features into the MR framework.
